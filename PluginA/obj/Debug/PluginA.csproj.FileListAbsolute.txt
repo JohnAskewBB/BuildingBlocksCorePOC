@@ -1,0 +1,16 @@
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\PluginA.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\PluginA.pdb
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\CommonInterfaces.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.Convention.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.Hosting.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.Runtime.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\CommonInterfaces.pdb
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.Convention.xml
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.Hosting.xml
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.Runtime.xml
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\obj\Debug\PluginA.dll
+C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PluginA\obj\Debug\PluginA.pdb
