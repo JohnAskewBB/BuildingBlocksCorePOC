@@ -26,6 +26,7 @@ namespace Console
             {
                 System.Console.WriteLine(message);
             }
+
             System.Console.ReadKey();
         }
     }

@@ -4,9 +4,11 @@ using System.Composition;
 using System.Composition.Hosting;
 using System.Linq;
 using System.Reflection;
+using System.Threading.Tasks;
 using CommonInterfaces.Base;
+using PCLStorage;
 
-namespace Core
+namespace PortableCore
 {
     public class PluginManager
     {
@@ -21,11 +23,13 @@ namespace Core
             RegisterPlugins(pluginDirectory);
         }
 
-        private void RegisterPlugins(string pluginDirectory)
+        private async void RegisterPlugins(string pluginDirectory)
         {
+            Plugins = new List<IPlugin>();
+
             try
             {
-                var configuration = new ContainerConfiguration().WithAssemblies(LoadAssemblies(pluginDirectory));
+                var configuration = new ContainerConfiguration().WithAssemblies(await LoadAssemblies(pluginDirectory));
                 var compositionHost = configuration.CreateContainer();
                 compositionHost.SatisfyImports(this);
 
@@ -40,7 +44,7 @@ namespace Core
             }
         }
 
-        private IEnumerable<Assembly> LoadAssemblies(string pluginDirectory)
+        private async Task<IEnumerable<Assembly>> LoadAssemblies(string pluginDirectory)
         {
             List<Assembly> assemblies = new List<Assembly>();
 
@@ -50,7 +54,7 @@ namespace Core
             //{
             //    if (file.Name.EndsWith(".dll", StringComparison.CurrentCultureIgnoreCase))
             //    {
-            //        Assembly assembly = Assembly.Load(await file.ReadAllTextAsync());
+            //        Assembly assembly = Assembly.Load(new AssemblyName(file.Name));
             //        assemblies.Add(assembly);
             //    }
             //}

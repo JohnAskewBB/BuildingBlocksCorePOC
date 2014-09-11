@@ -19,3 +19,23 @@ C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\Portabl
 C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PortableCore\obj\Debug\PortableCore.csprojResolveAssemblyReference.cache
 C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PortableCore\obj\Debug\Core.dll
 C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\PortableCore\obj\Debug\Core.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\PortableCore.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\PortableCore.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\CommonInterfaces.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\PCLStorage.Abstractions.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\PCLStorage.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.AttributedModel.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.Convention.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.Hosting.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.Runtime.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.TypedParts.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\CommonInterfaces.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\PCLStorage.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\PCLStorage.Abstractions.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.AttributedModel.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.Convention.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.Hosting.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.Runtime.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.TypedParts.xml
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\obj\Debug\PortableCore.dll
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\obj\Debug\PortableCore.pdb

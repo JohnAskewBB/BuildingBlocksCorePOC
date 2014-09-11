@@ -57,6 +57,10 @@
       <Project>{57545d21-d8d1-4504-a37e-c436f0398d1d}</Project>
       <Name>Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PortableCore\PortableCore.csproj">
+      <Project>{b05cdec6-fece-43a0-b478-3dc77ad9fea4}</Project>
+      <Name>PortableCore</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Plugins\" />

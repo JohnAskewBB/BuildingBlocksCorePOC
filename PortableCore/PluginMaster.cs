@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using CommonInterfaces.Base;
 
-namespace Core
+namespace PortableCore
 {
     public class PluginMaster : IPluginMaster
     {

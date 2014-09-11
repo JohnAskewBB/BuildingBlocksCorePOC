@@ -15,3 +15,19 @@ C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\Core\bi
 C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
 C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\Core\obj\Debug\Core.dll
 C:\Users\jaskew\Documents\Visual Studio 2012\Projects\BuildingBlocksCore\Core\obj\Debug\Core.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\Core.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\Core.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\CommonInterfaces.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.AttributedModel.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.Convention.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.Hosting.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.Runtime.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.TypedParts.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\CommonInterfaces.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.AttributedModel.xml
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.Convention.xml
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.Hosting.xml
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.Runtime.xml
+C:\Projects\Git\BuildingBlocksCorePOC\Core\bin\Debug\System.Composition.TypedParts.xml
+C:\Projects\Git\BuildingBlocksCorePOC\Core\obj\Debug\Core.dll
+C:\Projects\Git\BuildingBlocksCorePOC\Core\obj\Debug\Core.pdb
