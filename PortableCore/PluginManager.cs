@@ -23,13 +23,13 @@ namespace PortableCore
             RegisterPlugins(pluginDirectory);
         }
 
-        private async void RegisterPlugins(string pluginDirectory)
+        private void RegisterPlugins(string pluginDirectory)
         {
             Plugins = new List<IPlugin>();
 
             try
             {
-                var configuration = new ContainerConfiguration().WithAssemblies(await LoadAssemblies(pluginDirectory));
+                var configuration = new ContainerConfiguration().WithAssembly(typeof(IPlugin).GetTypeInfo().Assembly);
                 var compositionHost = configuration.CreateContainer();
                 compositionHost.SatisfyImports(this);
 
@@ -44,20 +44,9 @@ namespace PortableCore
             }
         }
 
-        private async Task<IEnumerable<Assembly>> LoadAssemblies(string pluginDirectory)
+        private IEnumerable<Assembly> LoadAssemblies(string pluginDirectory)
         {
             List<Assembly> assemblies = new List<Assembly>();
-
-            //IFolder folder = await FileSystem.Current.GetFolderFromPathAsync(pluginDirectory);
-            //IList<IFile> files = await folder.GetFilesAsync();
-            //foreach (IFile file in files)
-            //{
-            //    if (file.Name.EndsWith(".dll", StringComparison.CurrentCultureIgnoreCase))
-            //    {
-            //        Assembly assembly = Assembly.Load(new AssemblyName(file.Name));
-            //        assemblies.Add(assembly);
-            //    }
-            //}
 
             return assemblies;
         }

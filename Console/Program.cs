@@ -14,7 +14,7 @@ namespace Console
 
             foreach (IPlugin plugin in manager.GetPlugins<IPlugin>())
             {
-                manager.Master.Messages.Enqueue("Loaded: " + plugin.Name + " (v" + plugin.MajorVersion + "." + plugin.MinorVersion);
+                manager.Master.Messages.Enqueue("Loaded: " + plugin.Name + " (v" + plugin.MajorVersion + "." + plugin.MinorVersion + ")");
             }
 
             foreach (ITestPlugin plugin in manager.GetPlugins<ITestPlugin>())

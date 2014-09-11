@@ -39,3 +39,4 @@ C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.
 C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\bin\Debug\System.Composition.TypedParts.xml
 C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\obj\Debug\PortableCore.dll
 C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\obj\Debug\PortableCore.pdb
+C:\Projects\Git\BuildingBlocksCorePOC\PortableCore\obj\Debug\PortableCore.csprojResolveAssemblyReference.cache
